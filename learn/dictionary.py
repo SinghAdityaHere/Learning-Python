@@ -1,4 +1,4 @@
-# dictionary is unorderd , it contains keys and values
+# dictionary is unordered , it contains keys and values
 
 student={
   "name": "cool" ,
@@ -19,3 +19,4 @@ print(student)
 student["fruit"]="apple"
 
 print(student)
+
