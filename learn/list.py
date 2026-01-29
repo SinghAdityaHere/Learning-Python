@@ -1,4 +1,4 @@
-# list is ordered, start from 0,1,2 and so on
+# list is ordered, start from 0,1,2 and so on  [ ]
 
 # take 3 food name from user and store it in a list
 
@@ -10,3 +10,4 @@ fL=[f1,f2,f3]
 print(fL)
 
 print(len(fL))
+
