@@ -1,3 +1,5 @@
+# dictionary is unorderd , it contains keys and values
+
 student={
   "name": "cool" ,
   "age" : 98 ,
@@ -15,4 +17,5 @@ print(student["district"])
 print(student)
 
 student["fruit"]="apple"
+
 print(student)
